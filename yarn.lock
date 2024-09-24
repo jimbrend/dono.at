@@ -213,10 +213,10 @@
     pump "^3.0.0"
     stack-generator "^2.0.3"
 
-"@bugsnag/plugin-react@^7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react/-/plugin-react-7.16.0.tgz#71294ce971e35f6cc012a143435246da00dc8b6b"
-  integrity sha512-7YjezY4j/mABLisR00WWsWN6ATKqVPBVx+zheXti/HaxCkW6gb1qiYN0brBTK5P4CEwMSObsV5rt2ubkvN9WSQ==
+"@bugsnag/plugin-react@^7.25.0":
+  version "7.25.0"
+  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react/-/plugin-react-7.25.0.tgz#20c9252b399586d9588ec28320c3da1f89854031"
+  integrity sha512-evlH2Aai7vBQsTNt1sP0Pq7uwCdaQR6DOwrZmfA6W6h0eJzTDdlq1jl94NbfHTIMM62zGcDx6ZT/1Q87utnvtA==
 
 "@bugsnag/safe-json-stringify@^6.0.0":
   version "6.0.0"
