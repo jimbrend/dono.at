@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@bugsnag/js": "^7.16.0",
-    "@bugsnag/plugin-react": "^7.16.0",
+    "@bugsnag/plugin-react": "^7.25.0",
     "@fontsource/montserrat": "^4.5.2",
     "@rebass/forms": "^4.0.6",
     "@rebass/preset": "^4.0.5",
