@@ -13,7 +13,7 @@
     "@fontsource/montserrat": "^4.5.2",
     "@rebass/forms": "^4.0.6",
     "@rebass/preset": "^4.0.5",
-    "aws-sdk": "^2.1066.0",
+    "aws-sdk": "^2.1687.0",
     "axios": "^0.25.0",
     "cookie": "^0.4.1",
     "debug-logger": "^0.4.1",
