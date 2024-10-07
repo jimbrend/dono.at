@@ -15,7 +15,7 @@
     "@rebass/preset": "^4.0.5",
     "aws-sdk": "^2.1066.0",
     "axios": "^0.25.0",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "debug-logger": "^0.4.1",
     "firebase": "^9.6.5",
     "firebase-admin": "^10.0.1",
